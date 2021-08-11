@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lokesh Kumar Bathina
 - 👀 Aiming at ML, DL, Computer Vision, Remote Sensing, Satellite Image Processing, GIS and Planetary Science
 - 🌱 A student at IIT Bombay
-- 📫 Reach me - https://www.linkedin.com/in/lokesh-kumar-bathina-7ba25314a/
+- 📫 Reach me https://www.linkedin.com/in/lokesh-kumar-bathina-7ba25314a/
 
 <!---
 lokeshkumarbathina/lokeshkumarbathina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
