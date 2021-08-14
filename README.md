@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lokesh Kumar Bathina
 - 👀 ML, DL, Computer Vision, Remote Sensing, Satellite Image Processing, GIS and Planetary Science
-- 🌱 A student at IIT Bombay
+- 🌱 Student at IIT Bombay
 - 📫 Reach me https://www.linkedin.com/in/lokesh-kumar-bathina-7ba25314a/
 
 <!---
