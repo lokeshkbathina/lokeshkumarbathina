@@ -1,5 +1,5 @@
 - Hi, I’m Lokesh
-- ML, DL, Computer Vision, Remote Sensing, Satellite Image Processing, GIS and Planetary Science
+- ML, DL, Computer Vision, Satellite Image Processing, Remote Sensing, GIS and Planetary Science
 - Student at IIT Bombay
 - Reach me https://www.linkedin.com/in/lokesh-kumar-bathina-7ba25314a/
 
